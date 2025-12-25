@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Qasim Ali Shah",
+  "profession": "Motivational Speaker",
+  "country": "Pakistan",
+  "foundation": {
+    "name": "Qasim Ali Shah Foundation",
+    "type": "Non-Profit",
+    "focus": ["Education", "Youth Development", "Training"]
+  },
+  "skills": ["Teaching", "Motivation", "Writing", "Life Coaching"],
+  "active": true
+}
